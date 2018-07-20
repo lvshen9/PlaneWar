@@ -5,24 +5,24 @@ a game-PlaneWar，Written by Python
 
 #### 初始界面：
 
-![初始界面](PlaneWars-master\resources\introduce\初始界面.png)
+![初始界面](http://ovdkcl9ae.bkt.clouddn.com/18-7-20/49098800.jpg)
 
 如上图：程序运行之后的界面。
 
 #### 子弹射击：
 
-![子弹射击](PlaneWars-master\resources\introduce\子弹射击.png)
+![子弹射击](http://ovdkcl9ae.bkt.clouddn.com/18-7-20/82285399.jpg)
 
 如上图：按下空格键，可实现子弹射击
 
 #### GameOver
 
-![gameover](PlaneWars-master\resources\introduce\gameOver.png)
+![gameover](http://ovdkcl9ae.bkt.clouddn.com/18-7-20/88622765.jpg)
 
 敌机碰撞飞机后，游戏GameOver。
 
 #### 实机演示
 
-![PlanWars_Action](PlaneWars-master\resources\introduce\PlanWars_Action.gif)
+![PlanWars_Action](http://ovdkcl9ae.bkt.clouddn.com/18-7-20/56405612.jpg)
 
 实机演示图就是这样啦。
